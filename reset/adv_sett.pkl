@@ -1,0 +1,12 @@
+(S'adv_sett'
+p0
+S'0'
+p1
+g1
+g1
+g1
+g1
+g1
+g1
+tp2
+.
