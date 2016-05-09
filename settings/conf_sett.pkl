@@ -1,0 +1,16 @@
+(S'conf_sett'
+p0
+S'yit'
+p1
+S'git'
+p2
+S'mit'
+p3
+S'new'
+p4
+S'1245'
+p5
+S'114.25.36'
+p6
+tp7
+.
